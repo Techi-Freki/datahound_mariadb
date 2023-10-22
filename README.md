@@ -1,10 +1,10 @@
-#Datahound Mariadb
+# Datahound Mariadb
 
-A MariaDB connector for [datahound](https://python.dbcombs.com/simple/datahound).
+A MariaDB connector for [datahound](https://github.com/Techi-Freki/datahound).
 
-##Usage
+## Usage
 
-###Extending provider base
+### Extending provider base
 
     from datahound import DataProviderBase, ConnectionString
 
@@ -41,7 +41,7 @@ A MariaDB connector for [datahound](https://python.dbcombs.com/simple/datahound)
     # you are now ready to use the DataProvider class to access your database
     # See the datahound README for additional information
 
-##Changelog
+## Changelog
 
 1.0.0
 * Initial Release.
